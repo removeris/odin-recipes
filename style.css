@@ -1,0 +1,13 @@
+body {
+    background-color: #d58936;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #3c1518;
+    text-align: center;
+}
+
+.link {
+    color: #69140e;
+}
