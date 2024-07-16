@@ -11,3 +11,25 @@ h1 {
 .link {
     color: #69140e;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    color: #a44200;
+}
+
+#description {
+    color: #69140e;
+}
+
+.parent .child {
+    color:#a44200;
+}
+
+.header.ingredients {
+    font-size: 24px
+}
